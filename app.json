@@ -1,6 +1,6 @@
 {
-    "name": "focus",
-    "description": "PDA",
+    "name": "ocus",
+    "description": "PDA.",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
@@ -8,3 +8,5 @@
         }
     },
     "stack": "container"
+
+    
