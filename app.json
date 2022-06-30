@@ -1,5 +1,5 @@
 {
-    "name": "focus",
+    "name": "testroj",
     "description": "PDA.",
     "env": {
         "PASSWORD": {
@@ -8,5 +8,6 @@
         }
     },
     "stack": "container"
-    {
+}
+    
     
